@@ -1,6 +1,7 @@
 <a herf = "https://mint-young.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-c5dbe6?style=flat&logo=GitHub&logoColor=white"/></a>
 <a herf = "https://www.linkedin.com/in/ha-young-park-aa91651aa/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white"/></a>  
-![Mint-young's Github stats](https://github-readme-stats.vercel.app/api?username=mint-young&show_icons=true)
+
+![mint-young's Github stats](https://github-readme-stats.vercel.app/api?username=mint-young&show_icons=true)
 
 <!--
 **mint-young/mint-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
