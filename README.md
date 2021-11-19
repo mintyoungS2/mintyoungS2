@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#c5dbe6&height=300&section=header&text=Hi&fontSize=90"/>
 <a href = "https://mint-young.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-c5dbe6?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/ha-young-park-aa91651aa" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white"/></a>
 
