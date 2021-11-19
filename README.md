@@ -1,4 +1,4 @@
-<a herf = "http://mint-young.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-c5dbe6?style=flat&logo=FF5722&logoColor=white"/></a> 
+<a herf = "https://mint-young.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-c5dbe6?style=flat&logo=GitHub&logoColor=white"/></a> 
 
 <!--
 **mint-young/mint-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
