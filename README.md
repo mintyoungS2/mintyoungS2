@@ -1,8 +1,8 @@
 <div align = "right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHa-youngPark%2Fhit-counter&count_bg=%23C5DBE6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  
 </div>
-<div style = "font-weight:bold; font-size: 20px; padding:5px;" align = "center">Ha-young Park<div><br>  
-<div align = "center">
+<div style = "font-weight: bold; font-size: 20px; padding:5px;" align = "center">Ha-young Park<div><br>  
+<div style = "padding:5px;" align = "center">
   <a href = "https://Ha-youngPark.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-c5dbe6?style=flat&logo=GitHub&logoColor=white"/></a>
   <a href = "https://mintyoungs2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-E71D29?style=falt&logo=Undertale&logoColor=white"/></a>
   <a href = "https://www.linkedin.com/in/ha-young-park-aa91651aa" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white"/></a><br>
