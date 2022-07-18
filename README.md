@@ -2,7 +2,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHa-youngPark%2Fhit-counter&count_bg=%23C5DBE6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  
 </div>
 
-<div style = "padding:5px; font-weight:bold; font-size:200%; " align = "center">Ha-young Park</div><br> 
+<center><h1>Ha-young Park</h1></center>
 <div align = "center"> Hello. I'm passionte about  Blockchain technology.</div><br>  
 
 <div align = "center">
