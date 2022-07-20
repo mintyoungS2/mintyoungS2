@@ -8,8 +8,7 @@ Currently I'm master student in GIST, South Korea.<br>
 I'm passionte about  Blockchain technology.</div><br>  
 
 <div align = "center">
-  <a href = "https://Ha-youngPark.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-c5dbe6?style=flat&logo=GitHub&logoColor=white"/></a>
-  <a href = "https://mintyoungs2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-E71D29?style=falt&logo=Undertale&logoColor=white"/></a>
+  <a href = "https://Ha-youngPark.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-c5dbe6?style=flat&logo=GitHub&logoColor=white"/></a>
   <a href = "https://www.linkedin.com/in/ha-young-park-aa91651aa" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white"/></a><br><br>
 
 ![Ha-youngPark's Github stats](https://github-readme-stats.vercel.app/api?username=Ha-youngPark&show_icons=true) <br>
